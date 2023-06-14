@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://abido.net/about/</loc>
-    <lastmod>2023-05-26T06:42:21-07:00</lastmod>
-  </url><url>
     <loc>https://abido.net/</loc>
+    <lastmod>2023-06-11T01:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://abido.net/blog/yichen-peihsin-married-in-taiwan/</loc>
+    <lastmod>2023-06-11T01:00:00-06:00</lastmod>
+  </url><url>
+    <loc>https://abido.net/about/</loc>
     <lastmod>2023-05-26T06:42:21-07:00</lastmod>
   </url><url>
     <loc>https://abido.net/about/colophon/</loc>
